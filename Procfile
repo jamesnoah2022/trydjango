@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn ddah.mwgi --log-file=-
+web: gunicorn trydjango.msgi --log-file=-
